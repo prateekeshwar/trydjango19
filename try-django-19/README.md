@@ -1,7 +1,6 @@
 # Try Django 1.9
 
-This readme looks this way because you are within a Lecture's commit. Go to the [home](https://github.com/codingforentrepreneurs/try-django-19) repo to see links for each lecture's code.
+This trydjango project is developed for practice purposes.
+Authenticated users can create, retrieve, update delete all posts
 
 Thanks for watching!
-
-Team CFE
